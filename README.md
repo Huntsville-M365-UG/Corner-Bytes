@@ -1,2 +1,2 @@
 # Corner-Bytes
-Contains the Bytes and solutions for monthly challenges
+Contains the Bytes and solutions for monthly challenges.
